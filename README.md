@@ -1,1 +1,1 @@
-This is my first Commit. This is a tutorial for git.
+This is my first commit. This is a tutorial for git.
